@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><layout name="purse_widget" width="178" height="48" version="0.1" uid="2F65E8CC-3DE5-592F-D786-BDAAE4C978BF">
+  <window>
+    <border x="0" y="0" width="178" height="48" params="64" style="1">
+      <children>
+        <label x="12" y="12" width="73" height="23" params="16" style="0" name="credits" caption="00000">
+          <variables>
+            <var key="text_style" value="headline_big" type="String"/>
+            <var key="text_color" value="0xffffff" type="hex"/>
+          </variables>
+        </label>
+        <label x="93" y="12" width="73" height="23" params="16" style="0" name="pixels" caption="00000">
+          <variables>
+            <var key="text_style" value="headline_big" type="String"/>
+            <var key="text_color" value="0xffffff" type="hex"/>
+          </variables>
+        </label>
+      </children>
+    </border>
+  </window>
+</layout>
